@@ -1,0 +1,100 @@
+Bloomington, IN, 47401
+Cheshire, CT, 06410
+Old Saybrook, CT, 06475
+Ashland, OR, 97520
+New Canaan, CT, 06840
+Catasauqua, PA, 18032
+Kenner, LA, 70065
+Basalt, CO, 81621
+Salinas, CA, 93906
+Birmingham, AL, 35233
+Indianapolis, IN, 46217
+Knox, IN, 46534
+Denton, TX, 76201
+Dallas, TX, 75248
+Lake Oswego, OR, 97034
+San Francisco, CA, 94107
+Lancaster, CA, 93534
+Springfield, MO, 65802
+Kansas City, MO, 64105
+Harlingen, TX, 78552
+Odessa, MO, 64076
+Neosho, MO, 64850
+Topeka, KS, 66609
+Chicago, IL, 60630
+Kansas City, MO, 64133
+Whittier, CA, 90602
+Minneapolis, MN, 55420
+Los Lunas, NM, 87031
+Minneapolis, MN, 55415
+Faribault, MN, 55021
+Mankato, MN, 56001
+Raleigh, NC, 27612
+Hartsville, SC, 29550
+Virginia, MN, 55792
+Lima, OH, 45807
+Atlanta, GA, 30328
+North Fort Myers, FL, 33917
+Lancaster, MA, 01523
+Pinehurst, ID, 83850
+Miami, FL, 33137
+Bay City, MI, 48706
+Shawano, WI, 54166
+Chattanooga, TN, 37405
+Michigan City, IN, 46360
+Washington, DC, 20006
+Portland, ME, 04103
+Indianapolis, IN, 46208
+Miami, FL, 33127
+Dover, DE, 19904
+Dallas, TX, 75287
+Rockford, IL, 61108
+San Diego, CA, 92120
+Naples, FL, 34109
+Broken Bow, NE, 68822
+Vinton, VA, 24179
+Washington, DC, 20020
+Ord, NE, 68862
+Houston, TX, 77074
+St Louis, MO, 63105
+Colorado Springs, CO, 80904
+Addison, TX, 75001
+Minneapolis, MN, 55403
+Minneapolis, MN, 55404
+Garland, TX, 75044
+Pittsburgh, PA, 15219
+Overland Park, KS, 66223
+Kingfield, ME, 04947
+Mount Sinai, NY, sinai 11766
+Creighton, NE, 68729
+Fort Lauderdale, FL, 33313
+St Petersburg, FL, 33710
+Jacksonville, FL, 32224
+Pinellas Park, FL, 33781
+Havre, MT, 59501
+Helena, MT, 59601
+Jacksonville, FL, 32244
+Merritt Island, FL, 32953
+Hillsboro, OR, 97124
+St Petersburg, FL, 33704
+St Petersburg, FL, 33705
+Hollywood, FL, 33021
+Fort Myers, FL, 33919
+Sanford, FL, sanford 32773
+Stuart, FL, 34994
+Hardin, MT, 59034
+Lutz, FL, 33601
+St Petersburg, FL, 33701
+Palm Harbor, FL, 34684
+Pembroke Pines, FL, 33026
+Fort Lauderdale, FL, 33324
+Missoula, MT, 59802
+Milledgeville, GA, 31061
+Fayetteville, GA, 30215
+Missoula, MT, 59801
+Stockbridge, GA, 30281
+Riverdale, GA, 30274
+Lilburn, GA, 30047
+Dalton, GA, 30720
+Savannah, GA, 31405
+Warner Robins, GA, 31093

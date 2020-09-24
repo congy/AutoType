@@ -1,0 +1,16 @@
+C1CCCC2C1CCCC2
+C1=CC=CC=C1
+O=Cc1ccc(O)c(OC)c1
+[Cu+2].[O-]S(=O)(=O)[O-]
+OCc1cc(C=O)ccc1O
+CC(=O)NCCC1=CNc2c1cc(OC)cc2
+CC(=O)NCCc1c[nH]c2ccc(OC)cc12
+CN1CCC[C@H]1c2cccnc2
+CCc(c1)ccc2[n+]1ccc3c2[nH]c4c3cccc4
+CCc1c[n+]2ccc3c4ccccc4[nH]c3c2cc1
+CCC[C@@H](O)CC\C=C\C=C\C#CC#C\C=C\CO
+COC(=O)/C(C)=C/C1C(C)(C)
+OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1
+CC[C@H](O1)CC[C@@]12CCCO2
+N[C@@H](C)C(=O)O
+C1CC2CCCCC2CC1

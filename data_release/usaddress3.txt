@@ -1,0 +1,100 @@
+Bloomington, 47401
+Cheshire, 06410
+Old Saybrook, 06475
+Ashland, 97520
+New Canaan, 06840
+Catasauqua, 18032
+Kenner, 70065
+Basalt, 81621
+Salinas, 93906
+Birmingham, 35233
+Indianapolis, 46217
+Knox, 46534
+Denton, 76201
+Dallas, 75248
+Lake Oswego, 97034
+San Francisco, 94107
+Lancaster, 93534
+Springfield, 65802
+Kansas City, 64105
+Harlingen, 78552
+Odessa, 64076
+Neosho, 64850
+Topeka, 66609
+Chicago, 60630
+Kansas City, 64133
+Whittier, 90602
+Minneapolis, 55420
+Los Lunas, 87031
+Minneapolis, 55415
+Faribault, 55021
+Mankato, 56001
+Raleigh, 27612
+Hartsville, 29550
+Virginia, 55792
+Lima, 45807
+Atlanta, 30328
+North Fort Myers, 33917
+Lancaster, 01523
+Pinehurst, 83850
+Miami, 33137
+Bay City, 48706
+Shawano, 54166
+Chattanooga, 37405
+Michigan City, 46360
+Washington, 20006
+Portland, 04103
+Indianapolis, 46208
+Miami, 33127
+Dover, 19904
+Dallas, 75287
+Rockford, 61108
+San Diego, 92120
+Naples, 34109
+Broken Bow, 68822
+Vinton, 24179
+Washington, 20020
+Ord, 68862
+Houston, 77074
+St Louis, 63105
+Colorado Springs, 80904
+Addison, 75001
+Minneapolis, 55403
+Minneapolis, 55404
+Garland, 75044
+Pittsburgh, 15219
+Overland Park, 66223
+Kingfield, 04947
+Mount Sinai, NY, si11766
+Creighton, 68729
+Fort Lauderdale, 33313
+St Petersburg, 33710
+Jacksonville, 32224
+Pinellas Park, 33781
+Havre, 59501
+Helena, 59601
+Jacksonville, 32244
+Merritt Island, 32953
+Hillsboro, 97124
+St Petersburg, 33704
+St Petersburg, 33705
+Hollywood, 33021
+Fort Myers, 33919
+Sanford, FL, sanf32773
+Stuart, 34994
+Hardin, 59034
+Lutz, 33601
+St Petersburg, 33701
+Palm Harbor, 34684
+Pembroke Pines, 33026
+Fort Lauderdale, 33324
+Missoula, 59802
+Milledgeville, 31061
+Fayetteville, 30215
+Missoula, 59801
+Stockbridge, 30281
+Riverdale, 30274
+Lilburn, 30047
+Dalton, 30720
+Savannah, 31405
+Warner Robins, 31093

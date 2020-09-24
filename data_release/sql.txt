@@ -1,0 +1,13 @@
+SELECT CustomerName, City FROM Customers;
+SELECT DISTINCT Country FROM Customers;
+SELECT Count(*) AS DistinctCountries FROM (SELECT DISTINCT Country FROM Customers);
+SELECT * FROM Customers WHERE Country='Germany' AND City='Berlin';
+INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+UPDATE Customers SET ContactName='Juan' WHERE Country='Mexico';
+SELECT Customers.CustomerName, Orders.OrderID FROM Customers LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID ORDER BY Customers.CustomerName;
+SELECT City FROM Customers UNION SELECT City FROM Suppliers ORDER BY City;
+SELECT SupplierName FROM Suppliers WHERE EXISTS (SELECT ProductName FROM Products WHERE SupplierId = Suppliers.supplierId AND Price = 22);
+SELECT Orders.OrderID, Customers.CustomerName FROM Orders INNER JOIN Customers ON Orders.CustomerID = Customers.CustomerID;
+SELECT * FROM Customers WHERE CustomerName LIKE '%or%';
+SELECT MIN(Price) AS SmallestPrice FROM Products;
+DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
